@@ -1,4 +1,5 @@
 📌 Project Overview
+
 This project aims to develop a machine learning-based solution to predict the creditworthiness of loan applicants. By analyzing historical financial data and behavioral patterns, the system identifies borrowers who are likely to repay loans reliably, helping financial institutions reduce defaults and optimize lending decisions.
 
 
@@ -36,4 +37,5 @@ python main.py
 
 
 🤝 Contributors
+
 Hema Latha
